@@ -1,5 +1,7 @@
 British Airways Reviews Dashboard: Sentiment Analysis & Insights
 
+![Dashboard Screenshot](./Dashboard_screenshot.png)
+
 An interactive Tableau dashboard analyzing British Airways customer reviews to provide actionable insights into customer satisfaction and service quality. This project visualizes key metrics, trends, and performance patterns to help stakeholders understand customer feedback effectively.
 
 Features
